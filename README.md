@@ -1,8 +1,8 @@
 ## run php 
-[localhost:8001](localhost:8001)
+[localhost:8001](http://localhost:8001)
 
 ## run php mysql
-[localhost:8000](localhost:8000)
+[localhost:8000](http://localhost:8000)
 
 ## docker compose
 [Rf](https://gist.github.com/jcavat/2ed51c6371b9b488d6a940ba1049189b)
